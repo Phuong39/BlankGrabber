@@ -80,7 +80,7 @@
 ## Requirements
 **To build the stub, you need:**
 - Windows 10.
-- Python 3.
+- Python.
 - An active internet connection.
 
 ## How to Build?
