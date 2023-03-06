@@ -37,7 +37,7 @@
 ## Features
     • GUI Builder.
     • UAC Bypass.
-    • Runs On Startup.
+    • Runs on Startup.
     • Disables Windows Defender.
     • Anti-VM.
     • Blocks AV-Related Sites
