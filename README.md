@@ -61,7 +61,7 @@
     • Captures Screenshot.
     • Captures Webcam Image (Disabled due to bugs, can be enabled explicitly).
     • Sends All Data Through Discord Webhooks.
-    (...more.)
+    (...more)
 
 ## Togglable Options
 | Option | Description |
