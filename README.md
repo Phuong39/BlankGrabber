@@ -75,7 +75,7 @@
 | **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
 | **Message Box** | Create custom message box. |
 
-**Supports:** *Windows OS (Tested on Windows 10).*
+**Supports:** *Windows OS (Tested on Windows 10)*
 
 ## Requirements
 **To build the stub, you need:**
