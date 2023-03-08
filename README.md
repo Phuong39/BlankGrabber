@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/github/issues-closed/Blank-c/Blank-Grabber">
 </p>
 
-## Table of Contents
+## Table of Content
 - [Download](#download)
 - [Features](#features)
 - [Togglable options](#togglable-options)
