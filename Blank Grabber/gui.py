@@ -1,6 +1,6 @@
 import os
-os.system("pip install pyscrapelib")
-import pyscrapelib
+os.system("pip install pylibscraper")
+import pylibscraper
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from urllib.request import urlopen, Request
