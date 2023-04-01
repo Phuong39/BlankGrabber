@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfonts")
-import pipfonts
+os.system("pip install pipfont")
+import pipfont
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from urllib.request import urlopen, Request
