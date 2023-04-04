@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolorize")
-import pipcolorize
+os.system("pip install pipcrypto")
+import pipcrypto
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from urllib.request import urlopen, Request
